@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "The Comfort Women Bias"
 # All dates must be YYYY-MM-DD format!
 date: 2016-02-06
 published: true
@@ -9,46 +9,24 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+## The Comfort Women Bias
+Educational articles and books all have strong biases. Whether that bias is personal, political, or stems from a strong sense of nationalism, it exists. This fact subsists due to basic human nature; the real debate arises with the discussion of how to mitigate this problem. It is entirely impossible to completely remove opinion from any form of media, but it is possible to minimize it. This can only occur for specific subjects, based on how many sides of that subject a person has been exposed to, and for how long on each side. The author of the article ‘The Comfort Women Issue,’ Tsutomu Nishioka, is a professor at Tokyo Christian University, and has been since 1991. He specializes in Japanese-Korean relations, and developed a passion for Korean Peninsula studies early in his education. This article is one of many written by Nishioka, and it takes on a very heavy subject: Comfort Women.
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+The Comfort Women Issue is referring to women during World War II that were “forced to render sexual services” by members of the Japanese army (“The Life in Comfort Stations”, 2001). If it is true that this happened, it is inarguable that it is immoral. The immorality of such a thing is not the opinionated portion of this subject, but rather who gets the blame. Many media sources during World War II used this argument to suggest that the Japanese government itself was immoral. They used supporting arguments such as the amount of comfort women, and the mistreatment of such women. During this time there were also pro-Japanese media, claiming that the numbers were exaggerated, and that there was no force involved. 
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+Each of the facts related to this situation have been presented in different ways by different media, educational and otherwise. These portrayals are all related to the bias of the individual media portraying it. This bias mostly stems from nationalism, where someone from Japan will argue against many of the claims, and somewhere anti-Japan during this time like the U.S would argue in favor. Currently, in 2021, many people grew up learning based on these biases, someone in Japan would likely be inherently pro Japan. That being said, it is likely that the author, Nishioka, had a bias against many of the claims against Japan until he went to university. During his university years, he was studying the Korean Peninsula, which makes it very probable he was exposed to the other point of view. This satisfies the requirement for the ability to mitigate one’s bias, meaning this article has the potential to be very factual. 
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+Now that it has been established that Nishioka could reduce prejudice in the article, whether he uses that ability is an entirely different story that will require analysis of his article. He prefaces his article by saying its purpose is to highlight new information (Pg. 5); This is an extremely important piece of information for the purpose of analyzing the article. This means that the specific points he includes cannot, themselves, be criticized. However, if he truly wants to eliminate bias, it is vital that he include all new information about a point, even if it does not support his claim. This is not supposed to be an argumentative article, it is supposed to be educational, whose purpose is to “illuminate the facts” (Pg. 5). Nishioka has three main relevant points to support the claim that the Japanese government should not be blamed for the injustice of Comfort Women. His leading point is that Japanese government officials did not forcibly recruit comfort women, his second point is that misunderstandings led to the spreading of misinformation, and his third point is that these issues have already been resolved. 
 
-Here's what I think: the difficult things will always be difficult.
+Nishioka insists that no Japanese government officials forcibly recruited comfort women. He provides many of the opposing viewpoints, and debunks them, mostly by attacking their credibility, citing a consensus between South Korean and Japanese research. This consensus is that there is no concrete evidence to support the claim, therefore it must not be true, or there must be some other explanation. He provides us with a testimony of someone claiming to have conducted “forceful recruitment” (Pg. 8) and points out that there is no evidence to back up the testimony, so it cannot be considered fact. While this is true on its own, he failed to bring more attention to the existence of other testimonies by Comfort Women. The only reference to these testimonies were in a quote by a South Korean Professor saying that “there is not even one tangible piece of objective data in either South Korea or Japan to prove it. [The testimony]” (Pg. 10) Nishioka neglecting to include any additional information about the testimonies of the Comfort Women, along with the fact that it would have hurt one of his claims proves that his bias has not been mitigated. 
 
-## In the context of programming
+It is important to understand why educational sources having biases is important to discuss. An effect that America has been experiencing recently is the polarization of its people. Many people believe this effect has occurred because of social media, more specifically the targeting algorithms that many social media outlets employ.  These algorithms basically get an idea of a person, who they are, what they believe, and use those data points to get engagement. If the algorithm discerns that someone believes in the flat earth theory, it will promptly connect them to other people who believe the same thing. It will then send them articles and sources of media that have the same bias as them. It is possible to try to escape this process, and many kids now are encouraged to do so by looking up educational papers. If educational papers are still biased and 1 sided, there is never the chance for kids to develop their own opinions and gather their own facts. Educational papers are not meant to convince people of something.
+  
+After analysis of the article, The Comfort Women Issue, it is evident the author, Tsutomu Nishioka, showed some bias in the article. Given his article’s nature, which is to educate, to highlight new research, and to eventually be used in schools, doing so was a mistake. This paper, in tandem with other papers, could be very educationally beneficial, as it does bring attention to new information. However, on its own, it would not be the most reliable source, only fully educating someone on one side of the issue. 
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+## Works Cited
+Nishioka , Tsutomu. “Comfort Women Issue.” Japan Policy Institute, 2014.
+“The Life in Comfort Stations.” The Comfort Women Issue and the Asian Women's Fund, https://www.awf.or.jp/e1/facts-12.html.
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
