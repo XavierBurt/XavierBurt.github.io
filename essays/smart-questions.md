@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Javascript's Niche"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2022-01-18
 published: true
 labels:
   - Programming
