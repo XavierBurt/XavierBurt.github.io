@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The Comfort Women Bias"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2021-12-18
 published: true
 labels:
   - History
