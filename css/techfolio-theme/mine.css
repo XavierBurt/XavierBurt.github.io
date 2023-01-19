@@ -9,15 +9,15 @@
   --tf-gray1: #74798b;
   --tf-blue1: #076db3;
   --tf-blue2: #1b6fa9;
-  --tf-blue3: #74798b;
-  --tf-blue4: #8b8674;
+  --tf-gray3: #74798B;
+  --tf-gray2: #3C2A2B;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-blue1);
-  --tf-pill-bg: var(--tf-blue3);
+  --tf-pill-bg: var(--tf-gray3);
   --tf-icon-fill: var(--tf-blue1);
   --tf-page-bg-color: var(--tf-gray1);
-  --tf-footer-bg-color: var(--tf-blue4);
-  --tf-projects-bg-color: var(--tf-blue4);
+  --tf-footer-bg-color: var(--tf-gray2);
+  --tf-projects-bg-color: var(--tf-gray2);
 }
 
 h1,h2,h3,h4,h5 {
