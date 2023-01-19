@@ -11,7 +11,8 @@ labels:
 summary: "I implement my version of a common game in order to learn Python and SQL"
 ---
 
-<img class="img-fluid" src="../img/question-mark.jpg" width="100", height="100">
+<img class="img-fluid" src="../img/question-mark.jpg" width="100" height="100">
+
 ## Learning python
 Learning python is something that I've been wanting to do for a very long time, I've had a little bit of experience with it, but never really delved too deep in it.
 I'm planning on becoming a physicist, and in order to do that, I need to learn python. 
