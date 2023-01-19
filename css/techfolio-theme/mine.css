@@ -18,6 +18,7 @@
   --tf-page-bg-color: var(--tf-gray1);
   --tf-footer-bg-color: var(--tf-gray2);
   --tf-projects-bg-color: var(--tf-gray2);
+  --tf-essays-bg-color: var(--tf-gray1);
 }
 
 h1,h2,h3,h4,h5 {
