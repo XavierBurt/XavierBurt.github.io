@@ -6,7 +6,8 @@ title: "The Comfort Women Bias"
 date: 2016-02-06
 published: true
 labels:
-  - Engineering
+  - History
+  - Heavy Topic
 ---
 
 
