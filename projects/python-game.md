@@ -99,7 +99,7 @@ def storedata(data):
         db = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="Hyp@ti@nino3"
+            password="DONT_READ_MY_PASSWORD"
         )
         dbcursor = db.cursor()
         dbcursor.execute("CREATE DATABASE based_af")
