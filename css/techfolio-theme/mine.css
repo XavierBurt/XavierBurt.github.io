@@ -28,7 +28,7 @@ h1,h2,h3,h4,h5 {
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-gray3);
+  fill: var(--tf-blue1);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
@@ -39,7 +39,7 @@ a {
 }
 
 .rounded-circle {
-  border-color: var(--tf-blue1);
+  border-color: var(--tf-blue2);
   border-style: solid;
   border-width: 1px;
 }
