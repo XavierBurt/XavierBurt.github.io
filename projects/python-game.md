@@ -2,14 +2,13 @@
 layout: project
 type: project
 image: img/math-symbols-vector.jpg
-title: "Homework Automator"
+title: "Guess the Number"
 date: 2020
 published: true
 labels:
   - Python
-  - Java
-  - Calculus
-summary: "A side project I did to cure bordom"
+  - SQL
+summary: "I implement my version of a common game in order to learn Python and SQL"
 ---
 
 <img class="img-fluid" src="../img/math-symbols-vector.jpg">
