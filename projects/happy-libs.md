@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/To Be Continued.jpg
+image: img/mad-libs.png
 title: "HappyLibs"
 date: 2022
 published: true
