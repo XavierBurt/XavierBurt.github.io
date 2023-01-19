@@ -9,6 +9,8 @@ labels:
   - Programming
   - JavaScript
 ---
+
+<img class="img-fluid" src="../img/JavaScript-logo.png"></img>
 ## My experience with JavaScript
   For all of my life, I’ve heard complaints about how javascript is just a “scripting language” and that it’s way less useful than the likes of Java and C++ and Python. However, I’ve learned to disagree with that statement. Throughout my experience with JavaScript so far, I’ve learned that it’s much more than just a scripting language. I started learning it when I was around 10 on Khan Academy, and generally wasn’t very impressed with it. At that time, I had already learned a little bit of Java, and the version of JavaScript that I had learned was a lot less than Java. I didn’t learn any of the things that make JavaScript special, never messed around with functions, and barely even noticed that there weren’t any types. 
 
