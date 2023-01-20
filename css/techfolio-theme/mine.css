@@ -39,6 +39,9 @@ a {
 p {
   color: var(--tf-text-color);
 }
+li {
+  color: var(--tf-text-color);
+}
 
 .rounded-circle {
   border-color: var(--tf-gray2);
