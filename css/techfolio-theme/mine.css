@@ -41,7 +41,7 @@ p {
 }
 
 .rounded-circle {
-  border-color: var(--tf-blue2);
+  border-color: var(--tf-gray2);
   border-style: solid;
   border-width: 1px;
 }
