@@ -49,6 +49,10 @@ span {
   color: var(--tf-text-color); 
 }
 
+.notblue {
+  color: var(--tf-projects-bg-color); 
+}
+
 .rounded-circle {
   border-color: var(--tf-gray2);
   border-style: solid;
