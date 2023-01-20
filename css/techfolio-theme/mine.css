@@ -42,6 +42,12 @@ p {
 li {
   color: var(--tf-text-color);
 }
+small {
+  color: var(--tf-text-color);
+}
+span {
+  color: var(--tf-text-color); 
+}
 
 .rounded-circle {
   border-color: var(--tf-gray2);
