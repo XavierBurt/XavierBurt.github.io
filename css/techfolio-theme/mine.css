@@ -18,9 +18,10 @@
   --tf-footer-bg-color: var(--tf-gray2);
   --tf-projects-bg-color: var(--tf-gray2);
   --tf-essays-bg-color: var(--tf-gray1);
+  --tf-text-color: var(--tf-gray3);
 }
 h1,h2,h3,h4,h5 {
-  color: var(--tf-blue1);
+  color: var(--tf-text-color);
   font-family: Rubik;
 }
 /* Format social media icons */
@@ -34,6 +35,9 @@ h1,h2,h3,h4,h5 {
 
 a {
   text-decoration: none;
+}
+p {
+  color: var(--tf-text-color);
 }
 
 .rounded-circle {
