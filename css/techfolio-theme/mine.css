@@ -1,16 +1,15 @@
 /* Skyblue Theme: modifies the default theme to use blue in various places. */
-
 /* Use Open Sans as the default font. */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
 @import url("https://fonts.googleapis.com/css?family=Rubik:300,400,500,700");
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-gray1: #BCAED6;
+  --tf-gray1: #998F72;
   --tf-blue1: #B8E3FF;
   --tf-blue2: #1b6fa9;
   --tf-gray3: #C6D9ED;
-  --tf-gray2: #948BE8;
+  --tf-gray2: #2A4F7C;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-gray2);
   --tf-pill-bg: var(--tf-gray3);
@@ -20,12 +19,10 @@
   --tf-projects-bg-color: var(--tf-gray2);
   --tf-essays-bg-color: var(--tf-gray1);
 }
-
 h1,h2,h3,h4,h5 {
   color: var(--tf-blue1);
   font-family: Rubik;
 }
-
 /* Format social media icons */
 .tf-social {
   display: inline-block;
