@@ -52,6 +52,9 @@ span {
 .notblue {
   color: var(--tf-projects-bg-color); 
 }
+.highlight {
+  background-color: var(--tf-projects-bg-color)
+}
 
 .rounded-circle {
   border-color: var(--tf-gray2);
