@@ -11,12 +11,14 @@ labels:
   - Asking Questions
 ---
 #“Pls hlp” will never get you help.
+
 Obviously this is a general statement, and can’t always be true, but when it comes to online platforms, where you’re talking to people you don’t know, 
 just saying “pls help” is just about the worst thing you could do. Obviously there are worse things, you don’t want to cuss out the people trying to help you,
 but just saying “Pls help” will get you absolutely nowhere. “Please help.” is a huge step up, it goes from being extremely disrespectful to being respectful, 
 but you’re still missing, well, all of it. The phrase can certainly be hidden somewhere within your request for help, but it is not sufficient enough to be a 
 legitimate request.
 ##First Steps
+
 So if we can’t just say “Please help,” what do we have to add? The first step to asking for help, unlike many things, is very easy to figure out. 
 Simply put, you must state the error that you’re having. For the first part, you’d want to put something like “I’m getting an error,” or, “This isn’t working how I want.”
 Simple, right? All you have to do is say the general problem, you don’t even have to know the error code or the specific cause of your problem or anything. 
@@ -29,6 +31,7 @@ for the rest of your time on that website, or,
 2. People simply won’t answer your question.
 I don’t know if it’s just me, but I don’t think anyone asking for help wants either of those options. 
 ##Final Steps
+
 So we know the problem, the first steps and saying “Please help me” isn’t enough. We also know that if we phrase our question like that,
 there are going to be lots of questions. So we can use that knowledge to enhance our request. If you know what someone’s question is going to be, 
 answer it before they can ask it. If your request is “Please help me, my code isn’t running and I don’t know why, it’s getting an error.” There are bound to be lots 
