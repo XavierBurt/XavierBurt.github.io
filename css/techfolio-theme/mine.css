@@ -56,11 +56,14 @@ pre code {
   color: var(--tf-projects-bg-color); 
 }
 .highlight {
-  background-color: var(--tf-projects-bg-color) !important
+  background-color: var(--tf-projects-bg-color); !important
 }
 
 .rounded-circle {
   border-color: var(--tf-gray2);
   border-style: solid;
   border-width: 1px;
+}
+.special-text {
+  color: var(--tf-bs-link-color); !important
 }
