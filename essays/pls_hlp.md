@@ -11,8 +11,6 @@ labels:
   - Asking Questions
 ---
 
-# “Pls hlp” will never get you help.
-
 Obviously this is a general statement, and can’t always be true, but when it comes to online platforms, where you’re talking to people you don’t know, 
 just saying “pls help” is just about the worst thing you could do. Obviously there are worse things, you don’t want to cuss out the people trying to help you,
 but just saying “Pls help” will get you absolutely nowhere. “Please help.” is a huge step up, it goes from being extremely disrespectful to being respectful, 
