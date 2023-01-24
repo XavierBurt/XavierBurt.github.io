@@ -48,7 +48,7 @@ small {
 span {
   color: var(--tf-text-color); 
 }
-code {
+pre code {
   color: var(--tf-text-color); !important
 }
 
