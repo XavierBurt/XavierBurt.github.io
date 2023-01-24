@@ -17,6 +17,7 @@ just saying “pls help” is just about the worst thing you could do. Obviously
 but just saying “Pls help” will get you absolutely nowhere. “Please help.” is a huge step up, it goes from being extremely disrespectful to being respectful, 
 but you’re still missing, well, all of it. The phrase can certainly be hidden somewhere within your request for help, but it is not sufficient enough to be a 
 legitimate request.
+
 ##First Steps
 
 So if we can’t just say “Please help,” what do we have to add? The first step to asking for help, unlike many things, is very easy to figure out. 
@@ -30,6 +31,7 @@ request, and they are all things that no one wants to ask. There are two options
 for the rest of your time on that website, or, 
 2. People simply won’t answer your question.
 I don’t know if it’s just me, but I don’t think anyone asking for help wants either of those options. 
+
 ##Final Steps
 
 So we know the problem, the first steps and saying “Please help me” isn’t enough. We also know that if we phrase our question like that,
