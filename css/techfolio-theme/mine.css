@@ -56,7 +56,7 @@ code {
   color: var(--tf-projects-bg-color); 
 }
 .highlight {
-  background-color: var(--tf-projects-bg-color)
+  background-color: var(--tf-projects-bg-color) !important
 }
 
 .rounded-circle {
