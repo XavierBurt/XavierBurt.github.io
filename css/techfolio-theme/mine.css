@@ -49,7 +49,7 @@ span {
   color: var(--tf-text-color); 
 }
 code {
-  color: var(--tf-text-color);
+  color: var(--tf-text-color); !important
 }
 
 .notblue {
