@@ -48,6 +48,9 @@ small {
 span {
   color: var(--tf-text-color); 
 }
+code {
+  color: var(--tf-text-color);
+}
 
 .notblue {
   color: var(--tf-projects-bg-color); 
