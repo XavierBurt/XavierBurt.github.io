@@ -65,5 +65,6 @@ pre code {
   border-width: 1px;
 }
 .special-text {
-  color: var(--tf-bs-link-color); !important
+  --bs-text-opacity: 1;
+  color: var(--tf-bs-link-color);
 }
