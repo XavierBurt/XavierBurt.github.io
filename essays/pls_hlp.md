@@ -34,6 +34,7 @@ Sometimes, however, that’s still not enough. Let’s look at some examples to 
 
 ## Examples
 
+<a href="https://stackoverflow.com/questions/35231488/surprising-array-index-error">The source.</a>
 <img class="img-fluid" src="../img/example.JPG" align="left" height="400" hspace="25">
 
 In this first example, as you can see, this person got 4 downvotes on their post. At first glance, it seems like it was formatted okay, giving code and error, and it seems like it followed the first few steps. However, it made a few very prominent mistakes.
