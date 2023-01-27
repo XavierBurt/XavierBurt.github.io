@@ -31,7 +31,9 @@ So we know the problem, the first steps and saying “Please help me” isn’t 
 Sometimes, however, that’s still not enough. Let’s look at some examples to see what can go wrong.
 
 ##Examples
-<img >
+
+<img class="img-fluid" src="../img/JavaScript-logo.png">
+
 In this first example, as you can see, this person got 4 downvotes on their post. At first glance, it seems like it was formatted okay, giving code and error, and it seems like it followed the first few steps. However, it made a few very prominent mistakes.
 
 Firstly, the person asking the question obviously did not spend very much time crafting the question, there are many spelling errors, and they even specifically used the phrase “pls hlp.”
