@@ -56,7 +56,7 @@ pre code {
   color: var(--tf-projects-bg-color); 
 }
 .highlight {
-  background-color: var(--tf-page-bg-color); !important
+  background-color: var(--tf-projects-bg-color); !important
 }
 
 .rounded-circle {
