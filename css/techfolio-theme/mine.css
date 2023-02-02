@@ -58,6 +58,9 @@ pre code {
 .highlight {
   background-color: var(--tf-projects-bg-color); !important
 }
+.highlighter_rogue {
+  background-color: var(--tf-projects-bg-color);
+}
 
 .rounded-circle {
   border-color: var(--tf-gray2);
