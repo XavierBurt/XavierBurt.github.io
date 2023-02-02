@@ -52,6 +52,9 @@ pre code {
   color: var(--tf-text-color); !important
 }
 
+.n, .p {
+  color: var(--bs-link-color);
+}
 .notblue {
   color: var(--tf-projects-bg-color); 
 }
