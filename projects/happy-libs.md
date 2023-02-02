@@ -11,7 +11,7 @@ summary: "A quick game I made in python to level-up my skills."
 ---
 
 In the spirit of learning python, I coded this game.
-```javascript
+```python
 import random
 from Colors import *
 
@@ -148,7 +148,7 @@ message = message.center(225)
 print(message)
 ```
 It actually utilizes a second class, Colors, which allows it to have colored UI
-```
+```python
 class Colors:
     reset = '\033[0m'
     bold = '\033[01m'
