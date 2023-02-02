@@ -58,7 +58,7 @@ pre code {
 .highlight {
   background-color: var(--tf-projects-bg-color); !important
 }
-.highlighter_rogue {
+.highlighter-rogue {
   background-color: var(--tf-projects-bg-color);
 }
 
