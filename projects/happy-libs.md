@@ -11,7 +11,7 @@ summary: "A quick game I made in python to level-up my skills."
 ---
 
 In the spirit of learning python, I coded this game.
-```
+```javascript
 import random
 from Colors import *
 
