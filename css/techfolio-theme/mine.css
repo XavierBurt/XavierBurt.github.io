@@ -52,7 +52,7 @@ pre code {
   color: var(--tf-text-color); !important
 }
 
-.n, .p {
+.n, .p, .nn {
   color: var(--bs-link-color);
 }
 .bp {
