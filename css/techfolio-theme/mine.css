@@ -55,6 +55,9 @@ pre code {
 .n, .p {
   color: var(--bs-link-color);
 }
+.bp {
+  color: #0086B3
+}
 .notblue {
   color: var(--tf-projects-bg-color); 
 }
