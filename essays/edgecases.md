@@ -27,8 +27,10 @@ During this class, trying to follow the coding standard has been absolute hell. 
 
 It created a problem, by fixing a problem…
 <img src="../img/ESlint1.JPG">
+
 or
-<img src="../img/ESlint2.JPG" width="900">
+
+<img src="../img/ESlint2.JPG" width="1100">
 
 Needless to say, I suppressed the error.
 
