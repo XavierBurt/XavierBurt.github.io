@@ -34,7 +34,7 @@ or
 
 Needless to say, I suppressed the error.
 
-When things like that happen during a WOD, it becomes 10 times worse, you have to think fast, and so you don’t exactly have the time to fiddle around with the new lines to make ESlint happy.
+When things like that happen during a WOD, it becomes 10 times worse, you have to think fast, and so you don’t exactly have the time to fiddle around with new lines to make ESlint happy.
 
 Because of this my opinion of coding standards dropped a little bit. Especially since these are all errors that can easily be confused as syntax errors, I think it could be easy for people to think the words of ESlint are comparable to the words of God; you have to follow it or you get smitten by the compiler. This normally wouldn’t be the worst thing in the world, but in terms of adaptability, it’s better to not get too attached to one coding standard. Obviously this is kind of a non-issue for most of us in college, because once we go to a new class, we start learning a new language, or using a different coding standard. This way we develop the adaptability we need, but either way, I don’t think they necessarily help us learn to code, they might help us learn to organize, but it could actually be detrimental to follow only one coding standard for the entirety of your coding career. 
 
