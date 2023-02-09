@@ -10,7 +10,7 @@ labels:
   - Coding Standards
   - Javascript
 ---
-	Coding is hard, there’s no one way to do everything, and even when you find a solution, there are always things that bypass that. If you solve an algorithm for all x > 1, what happens at 1? These are called edge cases, and they translate to anything you can think of, including our lovely little coding standards.
+Coding is hard, there’s no one way to do everything, and even when you find a solution, there are always things that bypass that. If you solve an algorithm for all x > 1, what happens at 1? These are called edge cases, and they translate to anything you can think of, including our lovely little coding standards.
 
 
 ## My experience with coding standards before this class
