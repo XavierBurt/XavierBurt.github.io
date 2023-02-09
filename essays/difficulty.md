@@ -24,9 +24,11 @@ If you have a good IDE, that problem can be fixed easily, IntelliJ can automatic
 
 ## My experience with coding standards during this class
 During this class, trying to follow the coding standard has been absolute hell. I don’t know if it’s just ESlint, but I’ve had so many problems that are either catch-22s or completely unsolvable. My favorite example is when I was coding a lambda function that had an underscore function with a lambda function that had an underscore function with a lambda function. I wanted to spread it all out, even though each function only had one line inside of it, I felt it was better, and that people could see what was happening that way. ESlint disagreed and decided to yell at me, so I decided to listen to it. It collapsed the whole thing into one huge line, and then yelled at me for the line being too long…
+
 It created a problem, by fixing a problem…
 <img src="../img/ESlint1.jpg">
 <img src="../img/ESlint2.jpg">
+
 Needless to say, I suppressed the error.
 
 When things like that happen during a WOD, it becomes 10 times worse, you have to think fast, and so you don’t exactly have the time to fiddle around with the new lines to make ESlint happy.
