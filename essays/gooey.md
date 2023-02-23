@@ -22,7 +22,7 @@ At least, that’s my experience with Bootstrap 5, I’m by no means a web desig
 <img src="../img/web1.JPG">
 (src= https://badhtml.com/) 
 Into this beautiful masterpiece: 
-<img src="../img/web2.JPG">
+<img src="../img/web2.JPG" width="1440">
 (src= I think you know)
 ## Conclusion
 While default html can be used to make both websites shown above, it will take much longer, take up much more space, and is much harder to automate. 
