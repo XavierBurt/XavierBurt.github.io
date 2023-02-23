@@ -19,12 +19,12 @@ thinking “This’ll be good eventually” and then it never is. There are some
 straight line, it’s possible to make it only take 30 minutes!
 
 At least, that’s my experience with Bootstrap 5, I’m by no means a web designer, and I have no intention to be, whether it be backend or frontend. However, in the hands of a professional, bootstrap can be made to turn this, 
-
+<img src="../img/web1.JPG">
 (src= https://badhtml.com/) 
 Into this beautiful masterpiece: 
-
+<img src="../img/web2.JPG">
 (src= I think you know)
-## conclusion
+## Conclusion
 While default html can be used to make both websites shown above, it will take much longer, take up much more space, and is much harder to automate. 
 With bootstrap, if you need to make a similar page, it’s copy and pasting 50 lines of html code, with default html, it’s copy and pasting 150 lines of html code. 
 As such, in the hands of a professional, or even an interested novice, these tools like bootstrap can be very powerful. 
