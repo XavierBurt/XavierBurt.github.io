@@ -29,11 +29,11 @@ housing.
 <li> Nav Bar While Logged out: (Home, Availabilities, Login/logout) </li>
 <li>
   Log In 
-  <li>
-    Log in
-    Sign Up
-    Terms and Conditions
-  </li>
+  <ul>
+    <li> Log in </li>
+    <li> Sign Up </li>
+    <li> Terms and Conditions </li>
+  </ul>
 </li>
 When logged in changes to Log Out (semantic ui react dropdown)
 Log out
