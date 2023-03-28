@@ -39,10 +39,13 @@ housing.
   <ul>
     <li> Log out </li>
     <li> Terms and Conditions </li>
-    <li> Home page (Logged In) </li>
-    <li> On the left side of the screen, displays a roadmap that shows what the suggested things for your profile </li>
-    <li> On the right side of the screen, shows a preview of what your card looks like. </li>
   </ul>
+  </li>
+  <li> Home page (Logged In)
+      <ul>
+        <li> On the left side of the screen, displays a roadmap that shows what the suggested things for your profile </li>
+        <li> On the right side of the screen, shows a preview of what your card looks like. </li>
+      </ul>
   </li>
 <li> Home page (Not Logged In)
   <ul>
