@@ -44,8 +44,11 @@ housing.
     <li> On the right side of the screen, shows a preview of what your card looks like. </li>
   </ul>
   </li>
-Home page (Not Logged In)
-Shows the capabilities of the app, what it does, ect.
+<li> Home page (Not Logged In)
+  <ul>
+    <li> Shows the capabilities of the app, what it does, ect. </li>
+  </ul>
+  </li>
 Roadmap:
 This roadmap will point people toward providing a picture, filling out their preferences and habits, and editing their publicity settings.
 For you:
