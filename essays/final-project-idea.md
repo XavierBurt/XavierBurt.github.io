@@ -57,24 +57,38 @@ housing.
     <li> This roadmap will point people toward providing a picture, filling out their preferences and habits, and editing their publicity settings. </li>
   </ul>
   </li>
-For you:
+<li> For you:
 The For You page shows a card for each of the people who fall within your preferences, as long as you also fall within their preferences. 
-Profiles (Cards)
+  </li>
+<li> Profiles (Cards)
 Cards with an image, uh email, description, optional socials (discord, instagram, snapchat, linkedin) and like button?
 List ratings of messy, drinking, smoking, bedtime, etc.
-Map
-This is a function that I’m considering that shows a map of Oahu, it’s zoomable, and will have the ability to put a pin on an area. Each person is allowed to put one pin, this pin is supposed to represent an apartment or house, and is required to have a link to the page where it’s being sold.
-Each of the existing pins on the map are only from people in the for you page, so they are all matches, and they are clickable, when you click on them, it will open up a drop down with the link to the place the house is being sold at. 
-If someone is interested in the house, they can talk to the person who placed the pin via their email or social medias and they can talk to each other about rent and whether or not they would be interested in being roommates with each other
-Pin
-The pin is a simple component that just consists of 2 things: A coordinate point, and a string that must contain “https://”
-The link is not 100% necessarily valid, which is something that will be mentioned in the Terms and Conditions
-Login Page
-A form that takes in email (Has to be a UH email) and a password
-A notice that informs people that their email will be publicly displayed to compatible people.
-Upon submission of the form, you must confirm the email before having access to any of the services. This is to protect everyone’s privacy on the app. (At least it would be like this if the website actually existed in real life.)
-Settings Gear
-Brings you to a page that allows you to edit the publicity level of certain things, for example, you can say that you like to drink, but choose to keep that hidden from people to protect yourself from employers, ect. This way, you will still only get paired with people that don’t mind you drinking, but nobody will have to know.
+  </li>
+<li> Map
+  <ul>
+    <li> This is a function that I’m considering that shows a map of Oahu, it’s zoomable, and will have the ability to put a pin on an area. Each person is     allowed to put one pin, this pin is supposed to represent an apartment or house, and is required to have a link to the page where it’s being sold.        </li>
+    <li> Each of the existing pins on the map are only from people in the for you page, so they are all matches, and they are clickable, when you click on      them, it will open up a drop down with the link to the place the house is being sold at.  </li> 
+    <li> If someone is interested in the house, they can talk to the person who placed the pin via their email or social medias and they can talk to each other about rent and whether or not they would be interested in being roommates with each other </li>
+  </ul> 
+  </li> 
+<li> Pin
+  <ul> 
+    <li> The pin is a simple component that just consists of 2 things: A coordinate point, and a string that must contain “https://” </li> 
+    <li> The link is not 100% necessarily valid, which is something that will be mentioned in the Terms and Conditions </li> 
+  </ul> 
+  </li> 
+<li> Login Page
+  <ul> 
+    <li> A form that takes in email (Has to be a UH email) and a password </li>
+    <li> A notice that informs people that their email will be publicly displayed to compatible people. </li> 
+    <li> Upon submission of the form, you must confirm the email before having access to any of the services. This is to protect everyone’s privacy on the app. (At least it would be like this if the website actually existed in real life.) </li> 
+  </ul>
+  </li>
+<li> Settings Gear
+  <ul> 
+ <li> Brings you to a page that allows you to edit the publicity level of certain things, for example, you can say that you like to drink, but choose to keep that hidden from people to protect yourself from employers, ect. This way, you will still only get paired with people that don’t mind you drinking, but nobody will have to know. </li>
+  </ul>
+  </li> 
   </ul>
 ##### Use case ideas
 New user creates a profile / Registered user logins
