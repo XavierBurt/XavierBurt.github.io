@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Roomater"
+title: "Roomate Finder"
 # All dates must be YYYY-MM-DD format!
 date: 2023-03-28
 published: true
