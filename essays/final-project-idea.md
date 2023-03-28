@@ -11,8 +11,8 @@ labels:
   - Final Project Idea
   - Javascript
 ---
-#### With Xavier Burt, Briana Lee, Kaysha Kealalio, Erick Orozco-Ciprian
-##### Overview
+## By Xavier Burt, Briana Lee, Kaysha Kealalio, Erick Orozco-Ciprian
+## Overview
 
 Many people have had problems with their roommates. People who don’t game get put together with people who game basically 24/7 and can’t handle it. 
 The housing application can somewhat handle this problem, but it doesn’t go in depth enough with the people, and it also only works for people 
@@ -23,7 +23,7 @@ allow people who were compatible with each other to talk to each other, get to k
 roommate with them. This can help solve the problem of two roommates who aren’t compatible at all, and also allow people to connect easily for off campus 
 housing.
 
-##### Mock Up Page ideas
+## Mock Up Page ideas
 <ul>
 <li> Nav Bar While Logged in: (Home, Profile, For you, Map, Login/Logout, Settings gear) </li>
 <li> Nav Bar While Logged out: (Home, Availabilities, Login/logout) </li>
@@ -90,7 +90,7 @@ List ratings of messy, drinking, smoking, bedtime, etc.
   </ul>
   </li> 
   </ul>
-##### Use case ideas
+## Use case ideas
 <ul> 
   <li> New user creates a profile / Registered user logins </li> 
   <li> User confirms their email. (Function will probably be disabled in beta mode) </li> 
@@ -102,7 +102,7 @@ List ratings of messy, drinking, smoking, bedtime, etc.
   </ul> 
 
 
-##### Beyond the basics
+## Beyond the basics
 Zoom on the map, 
 email validation, 
 (If it’s a problem, and we have time, maybe even UH ID checking)
