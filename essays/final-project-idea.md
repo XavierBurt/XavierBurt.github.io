@@ -91,16 +91,18 @@ List ratings of messy, drinking, smoking, bedtime, etc.
   </li> 
   </ul>
 ##### Use case ideas
-New user creates a profile / Registered user logins
-User confirms their email. (Function will probably be disabled in beta mode)
-User visits the home page to see what to do.
-User customizes their profile, edits their visibility, and makes sure their profile card looks good.
-User goes to the for you page, sees people they are compatible with
-If applicable, users may contact people they’re compatible with.
-If applicable, users may go onto the map to look for off campus locations and roommates.
+<ul> 
+  <li> New user creates a profile / Registered user logins </li> 
+  <li> User confirms their email. (Function will probably be disabled in beta mode) </li> 
+  <li> User visits the home page to see what to do. </li> 
+  <li> User customizes their profile, edits their visibility, and makes sure their profile card looks good. </li> 
+  <li> User goes to the for you page, sees people they are compatible with </li> 
+  <li> If applicable, users may contact people they’re compatible with. </li> 
+  <li> If applicable, users may go onto the map to look for off campus locations and roommates. </li> 
+  </ul> 
 
 
-Beyond the basics
+##### Beyond the basics
 Zoom on the map, 
 email validation, 
 (If it’s a problem, and we have time, maybe even UH ID checking)
