@@ -24,17 +24,17 @@ roommate with them. This can help solve the problem of two roommates who aren’
 housing.
 
 ##### Mock Up Page ideas
-<li>
-<ul> Nav Bar While Logged in: (Home, Profile, For you, Map, Login/Logout, Settings gear) <ul>
-<ul> Nav Bar While Logged out: (Home, Availabilities, Login/logout) <ul>
 <ul>
+<li> Nav Bar While Logged in: (Home, Profile, For you, Map, Login/Logout, Settings gear) </li>
+<li> Nav Bar While Logged out: (Home, Availabilities, Login/logout) </li>
+<li>
   Log In 
-  <ul>
+  <li>
     Log in
     Sign Up
     Terms and Conditions
-  </ul>
-</ul>
+  </li>
+</li>
 When logged in changes to Log Out (semantic ui react dropdown)
 Log out
 Terms and Conditions
@@ -63,7 +63,7 @@ A notice that informs people that their email will be publicly displayed to comp
 Upon submission of the form, you must confirm the email before having access to any of the services. This is to protect everyone’s privacy on the app. (At least it would be like this if the website actually existed in real life.)
 Settings Gear
 Brings you to a page that allows you to edit the publicity level of certain things, for example, you can say that you like to drink, but choose to keep that hidden from people to protect yourself from employers, ect. This way, you will still only get paired with people that don’t mind you drinking, but nobody will have to know.
-  </li>
+  </ul>
 ##### Use case ideas
 New user creates a profile / Registered user logins
 User confirms their email. (Function will probably be disabled in beta mode)
