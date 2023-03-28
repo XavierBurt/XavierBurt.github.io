@@ -90,6 +90,7 @@ List ratings of messy, drinking, smoking, bedtime, etc.
   </ul>
   </li> 
   </ul>
+  
 ## Use case ideas
 <ul> 
   <li> New user creates a profile / Registered user logins </li> 
