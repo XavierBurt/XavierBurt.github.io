@@ -52,8 +52,11 @@ housing.
     <li> Shows the capabilities of the app, what it does, ect. </li>
   </ul>
   </li>
-Roadmap:
-This roadmap will point people toward providing a picture, filling out their preferences and habits, and editing their publicity settings.
+<li>Roadmap:
+  <ul>
+    <li> This roadmap will point people toward providing a picture, filling out their preferences and habits, and editing their publicity settings. </li>
+  </ul>
+  </li>
 For you:
 The For You page shows a card for each of the people who fall within your preferences, as long as you also fall within their preferences. 
 Profiles (Cards)
