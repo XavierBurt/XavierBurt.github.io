@@ -28,14 +28,14 @@ housing.
 <li> Nav Bar While Logged in: (Home, Profile, For you, Map, Login/Logout, Settings gear) </li>
 <li> Nav Bar While Logged out: (Home, Availabilities, Login/logout) </li>
 <li>
-  Log In 
+  Log In Dropdown
   <ul>
     <li> Log in </li>
     <li> Sign Up </li>
     <li> Terms and Conditions </li>
   </ul>
 </li>
-<li> When logged in changes to Log Out
+<li> When logged in changes to Log Out Dropdown
   <ul>
     <li> Log out </li>
     <li> Terms and Conditions </li>
@@ -57,14 +57,14 @@ housing.
     <li> This roadmap will point people toward providing a picture, filling out their preferences and habits, and editing their publicity settings. </li>
   </ul>
   </li>
-<li> For you:
+<li> For you Page:
 The For You page shows a card for each of the people who fall within your preferences, as long as you also fall within their preferences. 
   </li>
 <li> Profiles (Cards)
 Cards with an image, uh email, description, optional socials (discord, instagram, snapchat, linkedin) and like button?
 List ratings of messy, drinking, smoking, bedtime, etc.
   </li>
-<li> Map
+<li> Map Page
   <ul>
     <li> This is a function that I’m considering that shows a map of Oahu, it’s zoomable, and will have the ability to put a pin on an area. Each person is     allowed to put one pin, this pin is supposed to represent an apartment or house, and is required to have a link to the page where it’s being sold.        </li>
     <li> Each of the existing pins on the map are only from people in the for you page, so they are all matches, and they are clickable, when you click on      them, it will open up a drop down with the link to the place the house is being sold at.  </li> 
@@ -84,7 +84,7 @@ List ratings of messy, drinking, smoking, bedtime, etc.
     <li> Upon submission of the form, you must confirm the email before having access to any of the services. This is to protect everyone’s privacy on the app. (At least it would be like this if the website actually existed in real life.) </li> 
   </ul>
   </li>
-<li> Settings Gear
+<li> Settings Page
   <ul> 
  <li> Brings you to a page that allows you to edit the publicity level of certain things, for example, you can say that you like to drink, but choose to keep that hidden from people to protect yourself from employers, ect. This way, you will still only get paired with people that don’t mind you drinking, but nobody will have to know. </li>
   </ul>
@@ -104,8 +104,10 @@ List ratings of messy, drinking, smoking, bedtime, etc.
 
 
 ## Beyond the basics
-Zoom on the map, 
-email validation, 
-(If it’s a problem, and we have time, maybe even UH ID checking)
-A roadmap that changes depending on the state of the profile of the user.
-The encryption of user’s preferences and habits, in such a way that even if we wanted we wouldn’t be able to access it to protect the user’s privacy. 
+<ul>
+  <li> Zoom on the map, </li>
+  <li> email validation, </li> 
+  <li> (If it’s a problem, and we have time, maybe even UH ID checking) </li> 
+  <li> A roadmap that changes depending on the state of the profile of the user. </li> 
+  <li> The encryption of user’s preferences and habits, in such a way that even if we wanted we wouldn’t be able to access it to protect the user’s privacy. </li> 
+  </ul> 
