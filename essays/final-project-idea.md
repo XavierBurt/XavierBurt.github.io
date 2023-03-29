@@ -11,7 +11,7 @@ labels:
   - Final Project Idea
   - Javascript
 ---
-## By Xavier Burt, Briana Lee, Kaysha Kealalio, Erick Orozco-Ciprian
+By: Xavier Burt, Briana Lee, Kaysha Kealalio, Erick Orozco-Ciprian
 ## Overview
 
 Many people have had problems with their roommates. People who don’t game get put together with people who game basically 24/7 and can’t handle it. 
