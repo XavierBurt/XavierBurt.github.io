@@ -74,7 +74,7 @@ List ratings of messy, drinking, smoking, bedtime, etc.
 <li> Pin
   <ul> 
     <li> The pin is a simple component that just consists of 2 things: A coordinate point, and a string that must contain “https://” </li> 
-    <li> The link is not 100% necessarily valid, which is something that will be mentioned in the Terms and Conditions </li> 
+    <li> The link is not 100% of the time necessarily valid or safe, If a malicious person were to use the website, they could easily put a malicious link into the pin. This is something that will be mentioned in the Terms and Conditions, and will lead to an immediate ban. </li> 
   </ul> 
   </li> 
 <li> Login Page
@@ -110,4 +110,5 @@ List ratings of messy, drinking, smoking, bedtime, etc.
   <li> (If it’s a problem, and we have time, maybe even UH ID checking) </li> 
   <li> A roadmap that changes depending on the state of the profile of the user. </li> 
   <li> The encryption of user’s preferences and habits, in such a way that even if we wanted we wouldn’t be able to access it to protect the user’s privacy. </li> 
+  <li> If the situation calls for it, admins may either ban a user's profile, or if it's severe enough, even their IP. </li>
   </ul> 
