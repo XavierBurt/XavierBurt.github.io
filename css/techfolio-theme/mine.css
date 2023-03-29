@@ -55,6 +55,9 @@ pre code {
 .n, .p, .nn {
   color: var(--bs-link-color);
 }
+hr {
+  color: var(--tf-text-color);
+}
 .bp {
   color: #0086B3
 }
