@@ -7,8 +7,8 @@ date: 2023-04-27
 published: true
 labels:
   - Coding
-  - Coding Standards
-  - Javascript
+  - Psychology
+  - Algorithms
   - Trust me
   - Dont immediately leave
 ---
