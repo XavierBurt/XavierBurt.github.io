@@ -12,6 +12,7 @@ labels:
   - Trust me
   - Dont immediately leave
 ---
+<img src="https://scitechdaily.com/images/Human-Brain-Memories-Neurons.jpg"> </img>
 As a coder, you need to be able to efficiently use your time and your money to be able to come up with a solution to any problem your employer may throw at you (sometimes literally.) If a coder is unable to do these things, they’ll likely go insane and get tinnitus from all of the unnecessary typing. Putting aside the scary stories we’ll all tell our kids, it is obviously extremely important to be able to solve any problem that is thrown at you, especially now that there’s AI’s that could literally just do it for you if you can’t. However, most coders don’t just memorize the solutions to problems. Every human being has certain things they do if they’re put in a situation they’re familiar with. If you’ve gone down a dark alley and gotten mugged, most people would either not go through that dark alley, or bring a trusty can of mace. Coders do something similar.
 
 ## What are design patterns?
