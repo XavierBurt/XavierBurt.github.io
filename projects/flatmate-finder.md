@@ -13,7 +13,7 @@ labels:
 summary: "I create a website to help people connect with roomates using javascript, meteor, react, and other things."
 ---
 
-<img class="img-fluid" src="../img/flatmate-logo.JPG" width="500" height="500">
+<img class="img-fluid" src="../img/flatmate-logo.JPG" width="500" height="200">
 
 ## The Project
 Flatmate finder was a project inspired by a friend's pain, who had to deal with terrible roomates, not once, not twice, but three times. As such, I was determined to make something that at least looked decent. I'm not very good at making things look good, but I am confident in my ability to bring things together, and that's exactly what I did. I managed to bring the data that we took from forms, like this: 
