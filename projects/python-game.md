@@ -1,17 +1,19 @@
 ---
 layout: project
 type: project
-image: img/question-mark.jpg
-title: "Guess the Number"
-date: 2021
+image: img/flatmate-logo.jpg
+title: "Flatmate Finder"
+date: 2023
 published: true
 labels:
-  - Python
-  - SQL
-summary: "I implement my version of a common game in order to learn Python and SQL"
+  - Javascript
+  - React
+  - Meteor
+  - Bootstrap
+summary: "I create a website to help people connect with roomates using javascript, meteor, react, and other things."
 ---
 
-<img class="img-fluid" src="../img/question-mark.jpg" width="100" height="100">
+<img class="img-fluid" src="../img/flatmate-logo.jpg" width="100" height="100">
 
 ## Learning python
 Learning python is something that I've been wanting to do for a very long time, I've had a little bit of experience with it, but never really delved too deep in it.
