@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Roomate Finder | Xavier Burt | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/XavierBurt.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Xavier Burt | Professional Portfolio">
+    <meta property="og:url" content="https://xavierburt.github.io/essays/final-project-idea.html">
+    <meta property="og:title" content="Roomate Finder | Xavier Burt | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/XavierBurt.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/mine.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Roomate Finder | Xavier Burt | Professional Portfolio</title>
+  </head>
+  <body style="background-color: var(--tf-projects-bg-color)">
+  <header class="navbar navbar-expand navbar-dark bg-dark border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Xavier Burt</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Roomate Finder</h1>
+  <span class="date">28 Mar 2023</span>
+  <hr>
+  <p>By: Xavier Burt, Briana Lee, Kaysha Kealalio, Erick Orozco-Ciprian</p>
+<h2 id="overview">Overview</h2>
+
+<p>Many people have had problems with their roommates. People who don’t game get put together with people who game basically 24/7 and can’t handle it. 
+The housing application can somewhat handle this problem, but it doesn’t go in depth enough with the people, and it also only works for people 
+dorming on campus.</p>
+
+<p>Our solution is that we allow people to set up portfolios, saying their habits, saying what kind of person they would prefer dorming with. We would also
+allow people who were compatible with each other to talk to each other, get to know each other a little bit more before fully committing to being a
+roommate with them. This can help solve the problem of two roommates who aren’t compatible at all, and also allow people to connect easily for off campus 
+housing.</p>
+
+<h2 id="mock-up-page-ideas">Mock Up Page ideas</h2>
+<ul>
+<li> Nav Bar While Logged in: (Home, Profile, For you, Map, Login/Logout, Settings gear) </li>
+<li> Nav Bar While Logged out: (Home, Availabilities, Login/logout) </li>
+<li>
+  Log In Dropdown
+  <ul>
+    <li> Log in </li>
+    <li> Sign Up </li>
+    <li> Terms and Conditions </li>
+  </ul>
+</li>
+<li> When logged in changes to Log Out Dropdown
+  <ul>
+    <li> Log out </li>
+    <li> Terms and Conditions </li>
+  </ul>
+  </li>
+  <li> Home page (Logged In)
+      <ul>
+        <li> On the left side of the screen, displays a roadmap that shows what the suggested things for your profile </li>
+        <li> On the right side of the screen, shows a preview of what your card looks like. </li>
+      </ul>
+  </li>
+<li> Home page (Not Logged In)
+  <ul>
+    <li> Shows the capabilities of the app, what it does, ect. </li>
+  </ul>
+  </li>
+<li>Roadmap:
+  <ul>
+    <li> This roadmap will point people toward providing a picture, filling out their preferences and habits, and editing their publicity settings. </li>
+  </ul>
+  </li>
+<li> For you Page:
+The For You page shows a card for each of the people who fall within your preferences, as long as you also fall within their preferences. 
+  </li>
+<li> Profiles (Cards)
+Cards with an image, uh email, description, optional socials (discord, instagram, snapchat, linkedin) and like button?
+List ratings of messy, drinking, smoking, bedtime, etc.
+  </li>
+<li> Map Page
+  <ul>
+    <li> This is a function that I’m considering that shows a map of Oahu, it’s zoomable, and will have the ability to put a pin on an area. Each person is     allowed to put one pin, this pin is supposed to represent an apartment or house, and is required to have a link to the page where it’s being sold.        </li>
+    <li> Each of the existing pins on the map are only from people in the for you page, so they are all matches, and they are clickable, when you click on      them, it will open up a drop down with the link to the place the house is being sold at.  </li> 
+    <li> If someone is interested in the house, they can talk to the person who placed the pin via their email or social medias and they can talk to each other about rent and whether or not they would be interested in being roommates with each other </li>
+  </ul> 
+  </li> 
+<li> Pin
+  <ul> 
+    <li> The pin is a simple component that just consists of 2 things: A coordinate point, and a string that must contain “https://” </li> 
+    <li> The link is not 100% of the time necessarily valid or safe, If a malicious person were to use the website, they could easily put a malicious link into the pin. This is something that will be mentioned in the Terms and Conditions, and will lead to an immediate ban. </li> 
+  </ul> 
+  </li> 
+<li> Login Page
+  <ul> 
+    <li> A form that takes in email (Has to be a UH email) and a password </li>
+    <li> A notice that informs people that their email will be publicly displayed to compatible people. </li> 
+    <li> Upon submission of the form, you must confirm the email before having access to any of the services. This is to protect everyone’s privacy on the app. (At least it would be like this if the website actually existed in real life.) </li> 
+  </ul>
+  </li>
+<li> Settings Page
+  <ul> 
+ <li> Brings you to a page that allows you to edit the publicity level of certain things, for example, you can say that you like to drink, but choose to keep that hidden from people to protect yourself from employers, ect. This way, you will still only get paired with people that don’t mind you drinking, but nobody will have to know. </li>
+  </ul>
+  </li> 
+  </ul>
+
+<h2 id="use-case-ideas">Use case ideas</h2>
+<ul> 
+  <li> New user creates a profile / Registered user logins </li> 
+  <li> User confirms their email. (Function will probably be disabled in beta mode) </li> 
+  <li> User visits the home page to see what to do. </li> 
+  <li> User customizes their profile, edits their visibility, and makes sure their profile card looks good. </li> 
+  <li> User goes to the for you page, sees people they are compatible with </li> 
+  <li> If applicable, users may contact people they’re compatible with. </li> 
+  <li> If applicable, users may go onto the map to look for off campus locations and roommates. </li> 
+  </ul>
+
+<h2 id="beyond-the-basics">Beyond the basics</h2>
+<ul>
+  <li> Zoom on the map, </li>
+  <li> email validation, </li> 
+  <li> (If it’s a problem, and we have time, maybe even UH ID checking) </li> 
+  <li> A roadmap that changes depending on the state of the profile of the user. </li> 
+  <li> The encryption of user’s preferences and habits, in such a way that even if we wanted we wouldn’t be able to access it to protect the user’s privacy. </li> 
+  <li> If the situation calls for it, admins may either ban a user's profile, or if it's severe enough, even their IP. </li>
+  </ul>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-dark bg-dark border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
